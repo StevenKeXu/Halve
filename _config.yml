@@ -1,9 +1,9 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: 非正常程序员
+description: 匠于技，淡乎心
+url: https://stevenkexu.github.io/blog/
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: zh_CN
 
 # Left Block Images
 background:
