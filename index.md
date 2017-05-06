@@ -1,10 +1,7 @@
 ---
 layout: home
 ---
-# About Theme
+# 首页
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+少时迷恋机器，渴望未来的世界。弱冠得入二元世界，欣喜0与1的变化组合构建未来；匆匆渐学十余载，仍未技行天下。
+匠执于技，经年累月，方终能锻完器；心淡于市，高山仰止，还就赤子值诚。
